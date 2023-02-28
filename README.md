@@ -24,14 +24,17 @@
 
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://twitter.com/Akansha2001"><img src="https://img.shields.io/twitter/follow/Akansha2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue" align="left" title="Twitter - Akansha Jain" alt="Twitter" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/akansha-jain-2001/"><img align="left" title="LinkedIn - Akansha Jain" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href="mailto:jakansha2001@gmail.com"><img align="left" title="Mail - Akansha Jain" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
+<a href="https://twitter.com/Akansha2001"><img src="https://img.shields.io/twitter/follow/Akansha2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue" align="left" title="Twitter - Omar Nasser" alt="Twitter" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/omar-mouhamad-nasser/"><img align="left" title="LinkedIn - Omar Nasser" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="mailto:jakansha2001@gmail.com"><img align="left" title="Mail - Omar Nasser" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 
 <br>
 <br>
 <img 
    src="https://github-readme-stats.vercel.app/api?username=jakansha2001&show_icons=true&theme=tokyonight" 
+/>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=OmarNasser&show_icons=true&theme=tokyonight" 
 />
 
 <a href="https://www.buymeacoffee.com/akansha1611" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
